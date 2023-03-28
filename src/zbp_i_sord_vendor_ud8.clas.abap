@@ -1,0 +1,5 @@
+CLASS zbp_i_sord_vendor_ud8 DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_sord_vendor_ud8.
+ENDCLASS.
+
+CLASS zbp_i_sord_vendor_ud8 IMPLEMENTATION.
+ENDCLASS.
